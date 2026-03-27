@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
    $(LOCAL_DIR)/lineage_garden.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_garden-user \
-    lineage_garden-userdebug \
-    lineage_garden-eng
+    qassa_garden-user \
+    qassa_garden-userdebug \
+    qassa_garden-eng
