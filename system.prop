@@ -121,3 +121,8 @@ ro.lmk.kill_timeout_ms=100
 
 # Privapp permissions whitelisting
 ro.control_privapp_permissions=log
+
+# Usb debugging enable ( dev )
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.debuggable=1
