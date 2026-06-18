@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="ap_device_name_summary">Redmi Garden</string>
+    <string name="ap_chipset_type_summary">Mediatek MT6762G Helio G25</string>
+    <string name="ap_gpu_summary">PowerVR GE8320</string>
+    <string name="ap_camera_mp_summary">13+5 MP Dual Camera</string>
+    <string name="ap_screen_type_summary">IPS LCD 6.53 Screen</string>
+
+    <!-- Maintainer -->
+    <string name="ardiant24">your_name</string>
+</resources>
