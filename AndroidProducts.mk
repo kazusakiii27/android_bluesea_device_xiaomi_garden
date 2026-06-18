@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_garden.mk
+   $(LOCAL_DIR)/nad_garden.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_garden-user \
-    lineage_garden-userdebug \
-    lineage_garden-eng
+    nad_garden-user \
+    nad_garden-userdebug \
+    nad_garden-eng
