@@ -23,13 +23,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
 # Inherit some common Lineage stuff
 TARGET_BOOT_ANIMATION_RES := 720
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := garden
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_NAME := lineage_garden
+PRODUCT_NAME := nad_garden
 
 # Build info
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
